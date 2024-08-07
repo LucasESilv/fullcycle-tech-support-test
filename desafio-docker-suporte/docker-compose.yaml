@@ -6,6 +6,7 @@ services:
     build:
       context: app
     container_name: app
+    command: ["npm", "run", "dev"]
     tty: true
     volumes:
       - ./app:/usr/src/app
@@ -30,6 +31,7 @@ services:
     tty: true
     volumes:
       - mysql:/var/lib/mysql
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
     environment:
       - MYSQL_DATABASE=nodedb
       - MYSQL_ROOT_PASSWORD=root
