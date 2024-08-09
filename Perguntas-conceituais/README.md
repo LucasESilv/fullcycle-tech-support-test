@@ -29,5 +29,6 @@ Abaixo você verá 3 dúvidas conceituais, com suas palavras responda cada uma d
 
   E por último, ainda nessa linha, para fazer reports e dashboards, devemos usar outra estratégia que não passe pelo DDD e aja direto na base de dados para montar os resultados e indicadores?
 
-  resposta 3 :[Link] (https://gist.github.com/LucasESilv/da010e96c4172e08e3eae8779d2a944f)
+  resposta 3 : [Link](https://gist.github.com/LucasESilv/da010e96c4172e08e3eae8779d2a944f)
+
 
