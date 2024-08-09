@@ -36,3 +36,5 @@ go test ./....
 ```
 
 O output esperado é a execução de todos os testes sem nenhum tipo de erro.
+
+Resposta ao usuário da solução do desafio: [Link](https://gist.github.com/LucasESilv/cfd0a7009ebed8e029a3e36f2b368be3)

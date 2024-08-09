@@ -23,3 +23,5 @@ Acesse a rota abaixo e uma lista de nomes deve ser impressa na tela:
 ```
 localhost:8080
 ```
+
+Resposta ao usuário da solução do desafio: [Link](https://gist.github.com/LucasESilv/a9dd2becdf97a3d6815190d4e78c5ec2)
